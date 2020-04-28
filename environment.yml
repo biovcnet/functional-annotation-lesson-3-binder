@@ -1,0 +1,8 @@
+name: functional-annotation-lesson-2-binder
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - transdecoder
+  - blast
+  - hmmer
