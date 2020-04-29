@@ -6,3 +6,4 @@ dependencies:
   - transdecoder
   - blast
   - hmmer
+  - muscle
