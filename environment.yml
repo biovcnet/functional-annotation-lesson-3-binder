@@ -7,3 +7,4 @@ dependencies:
   - blast
   - hmmer
   - muscle
+  - nano
