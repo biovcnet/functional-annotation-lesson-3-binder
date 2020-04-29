@@ -10,4 +10,4 @@ jupyter labextension uninstall --no-build jupyter-offlinenotebook
 #wget https://raw.githubusercontent.com/biovcnet/topic-functional-annotation/master/Lesson-2/carbon-fixation-markers.faa
 
 #Data for Lesson 3
-wget https://de.cyverse.org/dl/d/A47FAD90-1837-4868-8896-61231F14F779/genome_canu_filtered.fasta
+#wget https://de.cyverse.org/dl/d/A47FAD90-1837-4868-8896-61231F14F779/genome_canu_filtered.fasta
